@@ -26,7 +26,7 @@ This is a simple command-line based to-do list application written in Python. Th
 
 1. **Run the Application**:
     ```bash
-    python todo_list.py
+    python todolist.py
     ```
 
 2. **Menu Options**:
